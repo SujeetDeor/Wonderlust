@@ -8,9 +8,9 @@ USA Tourist Guide, with a frontend built in React & Redux and a backend built in
 
 **This App uses a Heroku free plan, so I am afraid that it takes time to load the pages.**
 
-Check out [FRONTEND LIVE DEMO](https://frontend-sd-wd.herokuapp.com/) here!!
+Check out [FRONTEND LIVE DEMO](https://wonderlust-front-2.sujeetshivman.repl.co/) here!!
 
-Check out [API LIVE DEMO](https://backend-sd-wd.herokuapp.com/) here!!
+Check out [API LIVE DEMO](https://wonderlust-back.sujeetshivman.repl.co) here!!
 
 ## Tech used
 
@@ -24,7 +24,7 @@ Check out [API LIVE DEMO](https://backend-sd-wd.herokuapp.com/) here!!
 1. Git Clone
 
 ```
-git clone https://github.com/shubhams83/sd-wander-lust-project.git
+git clone https://github.com/SujeetDeor/Wonderlust
 ```
 
 2. Backend setting
